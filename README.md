@@ -1,3 +1,3 @@
-# angular-xpbg6s
+# makan
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-xpbg6s)
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/makan)
